@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Wider Github",
+  "version": "0.1.0",
+
+  "description": "Maximize your screen size when looking at codes on Github. This extension is not affiliated with Github.",
+
+  "browser_action":{
+    "default_icon":"github38.png",
+    "default_title": "Wider Github"
+  },
+
+  "permissions":[
+    "tabs",
+    "https://github.com/*"
+  ],
+
+  "background":{
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+
+}
