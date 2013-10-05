@@ -2,6 +2,14 @@
 
 Wider Github is a Chrome extension that allows you to maximize your screen size when looking at codes on Github. This extension is not affiliated with Github.
 
+Before
+------
+![ScreenShot](https://raw.github.com/tmlee/wider_github/master/screenshots/before.png)
+
+After
+-----
+![ScreenShot](https://raw.github.com/tmlee/wider_github/master/screenshots/after.png)
+
 ## Installation & Usage
 
 	1. Download this repo
