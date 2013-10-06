@@ -18,7 +18,8 @@
 
   "permissions":[
     "tabs",
-    "https://github.com/*"
+    "https://github.com/*",
+    "https://gist.github.com/*"
   ],
 
   "background":{

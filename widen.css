@@ -1,6 +1,27 @@
+/* Code View */
+
 div.diff-view, #files {
 	width: 94%;
 	left: 0;
 	margin: 0 3%;
 	position: absolute;
+}
+
+
+/* Gist */
+
+div.gist{
+	margin: 0 auto;
+	width: 100%;
+}
+
+div.root-pane{
+	float: left;
+	width: 10%;
+}
+
+div.column{
+	float: right;
+	width: 88%;
+	margin: 0 1%;
 }

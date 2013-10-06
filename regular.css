@@ -1,12 +1,35 @@
+/* Code View */
+
 div.diff-view{
 	position: initial;
 	left: initial;
 	z-index: initial;
 	width: initial;
+	margin: initial;
 }
 #files{
 	position: initial;
 	left: initial;
 	z-index: initial;
 	width: initial;
+	margin: initial;
+}
+
+/* Gist */
+
+div.gist{
+	margin: 0 auto;
+	width: 960px;
+}
+
+div.root-pane{
+	float: left;
+	width: 148px;
+	margin: initial;
+}
+
+div.column{
+	float: right;
+	width: 792px;
+	margin: initial;
 }
