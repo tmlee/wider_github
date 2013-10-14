@@ -1,18 +1,10 @@
 /* Code View */
 
-div.diff-view{
-	position: initial;
+#js-repo-pjax-container{
+	width: 920px;
 	left: initial;
-	z-index: initial;
-	width: initial;
 	margin: initial;
-}
-#files{
 	position: initial;
-	left: initial;
-	z-index: initial;
-	width: initial;
-	margin: initial;
 }
 
 /* Gist */
