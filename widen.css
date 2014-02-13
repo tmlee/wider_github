@@ -25,3 +25,12 @@ div.column{
 	width: 88%;
 	margin: 0 1%;
 }
+
+/* Pull Request */
+
+div.file .meta .info .css-truncate-target {
+	max-width: 85%;
+}
+div.file .meta .info {
+	width: 90%;
+}
