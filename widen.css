@@ -25,3 +25,8 @@ div.column{
 	width: 88%;
 	margin: 0 1%;
 }
+
+
+div.site-footer, div#all_commit_comments, div.thread-subscription-status {
+    visibility: hidden;
+}

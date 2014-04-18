@@ -33,3 +33,8 @@ div.column{
 	width: 792px;
 	margin: initial;
 }
+
+
+div.site-footer, div#all_commit_comments, div.thread-subscription-status {
+	visibility: initial;
+}
