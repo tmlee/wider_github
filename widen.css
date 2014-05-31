@@ -34,3 +34,11 @@ div.column{
 	width: 99%;
 	z-index: 1;
 }
+
+/* For file view */
+div.file-box {
+	position: absolute;
+	left: 10px;
+	width: 99%;
+	z-index: 1;
+}
