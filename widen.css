@@ -25,3 +25,11 @@ div.column{
 	width: 88%;
 	margin: 0 1%;
 }
+
+/* For Reamdes */
+#readme {
+	position: absolute;
+	left: 10px;
+	width: 99%;
+	z-index: 1;
+}

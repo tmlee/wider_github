@@ -33,3 +33,11 @@ div.column{
 	width: 792px;
 	margin: initial;
 }
+
+/* For Reamdes */
+#readme {
+	position: relative;
+	left: 0px;
+	width: 100%;
+	z-index: 0;
+}
