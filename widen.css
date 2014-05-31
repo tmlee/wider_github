@@ -5,6 +5,7 @@ div.diff-view, #files {
 	left: 0;
 	margin: 0 3%;
 	position: absolute;
+	z-index: 1;
 }
 
 

@@ -13,6 +13,7 @@ div.diff-view{
 	z-index: initial;
 	width: initial;
 	margin: initial;
+	z-index: 0;
 }
 
 /* Gist */
