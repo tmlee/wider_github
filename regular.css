@@ -33,3 +33,12 @@ div.column{
 	width: 792px;
 	margin: initial;
 }
+
+/* Pull Request */
+
+div.file .meta .info .css-truncate-target {
+	max-width: 600px;
+}
+div.file .meta .info {
+	width: initial;
+}
