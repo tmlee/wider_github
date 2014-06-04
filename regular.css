@@ -41,4 +41,7 @@ div.file .meta .info .css-truncate-target {
 }
 div.file .meta .info {
 	width: initial;
+
+div.site-footer, div#all_commit_comments, div.thread-subscription-status {
+	visibility: initial;
 }
