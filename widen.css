@@ -1,13 +1,12 @@
 /* Code View */
 
-div.diff-view, #files {
+/*#js-repo-pjax-container{
 	width: 94%;
-	left: 0;
-	margin: 0 3%;
+	left: 0px;
+	margin: 0px 3%;
 	position: absolute;
 	z-index: 1;
-}
-
+}*/
 
 /* Gist */
 
@@ -42,3 +41,16 @@ div.file-box {
 	width: 99%;
 	z-index: 1;
 }
+
+/* Pull Request */
+/*
+div.file .meta .info .css-truncate-target {
+	max-width: 85%;
+}
+div.file .meta .info {
+	width: 90%;
+
+div.site-footer, div#all_commit_comments, div.thread-subscription-status {
+    visibility: hidden;
+}*/
+

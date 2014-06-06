@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Wider Github",
-  "version": "0.1.0",
+  "version": "0.1.1",
 
   "description": "Maximize your screen size when looking at codes on Github. This extension is not affiliated with Github.",
 

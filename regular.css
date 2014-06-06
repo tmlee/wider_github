@@ -1,20 +1,17 @@
 /* Code View */
 
-div.diff-view{
-	position: initial;
+/*#js-repo-pjax-container{
+	width: 920px;
 	left: initial;
-	z-index: initial;
-	width: initial;
 	margin: initial;
-}
-#files{
 	position: initial;
+
 	left: initial;
 	z-index: initial;
 	width: initial;
 	margin: initial;
 	z-index: 0;
-}
+}*/
 
 /* Gist */
 
@@ -43,10 +40,23 @@ div.column{
 	z-index: 0;
 }
 
-/* For file view */
+/* For file/commit view */
 div.file-box {
 	position: relative;
 	left: 0px;
 	width: 100%;
 	z-index: 0;
 }
+
+/* Pull Request */
+/*
+div.file .meta .info .css-truncate-target {
+	max-width: 600px;
+}
+div.file .meta .info {
+	width: initial;
+
+div.site-footer, div#all_commit_comments, div.thread-subscription-status {
+	visibility: initial;
+}*/
+
