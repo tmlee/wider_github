@@ -34,7 +34,7 @@ div.column{
 	z-index: 1;
 }
 
-/* For file view */
+/* For file/commit view */
 div.file-box {
 	position: absolute;
 	left: 10px;
