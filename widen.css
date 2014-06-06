@@ -1,11 +1,12 @@
 /* Code View */
 
-#js-repo-pjax-container{
+/*#js-repo-pjax-container{
 	width: 94%;
 	left: 0px;
 	margin: 0px 3%;
 	position: absolute;
-}
+	z-index: 1;
+}*/
 
 /* Gist */
 
@@ -25,8 +26,24 @@ div.column{
 	margin: 0 1%;
 }
 
-/* Pull Request */
+/* For Reamdes */
+#readme {
+	position: absolute;
+	left: 10px;
+	width: 99%;
+	z-index: 1;
+}
 
+/* For file/commit view */
+div.file-box {
+	position: absolute;
+	left: 10px;
+	width: 99%;
+	z-index: 1;
+}
+
+/* Pull Request */
+/*
 div.file .meta .info .css-truncate-target {
 	max-width: 85%;
 }
@@ -35,4 +52,5 @@ div.file .meta .info {
 
 div.site-footer, div#all_commit_comments, div.thread-subscription-status {
     visibility: hidden;
-}
+}*/
+
