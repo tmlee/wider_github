@@ -1,10 +1,8 @@
 /* Code View */
 
-#js-repo-pjax-container{
-	width: 94%;
-	left: 0px;
-	margin: 0px 3%;
-	position: absolute;
+body.full-width div.container, body.full-width div.container-lg, body.split-diff div.container, body.split-diff div.container-lg {
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 /* Gist */
@@ -27,12 +25,12 @@ div.column{
 
 /* Pull Request */
 
-div.file .meta .info .css-truncate-target {
-	max-width: 85%;
+a.css-truncate.css-truncate-target, a.css-truncate .css-truncate-target {
+	max-width: 85%!important;
 }
-div.file .meta .info {
-	width: 90%;
-
+div.file-info {
+	width: 80%;
+}
 div.site-footer, div#all_commit_comments, div.thread-subscription-status {
     visibility: hidden;
 }
