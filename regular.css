@@ -1,10 +1,8 @@
 /* Code View */
 
-#js-repo-pjax-container{
-	width: 920px;
-	left: initial;
-	margin: initial;
-	position: initial;
+body.full-width div.container, body.full-width div.container-lg, body.split-diff div.container, body.split-diff div.container-lg {
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 /* Gist */
@@ -28,12 +26,12 @@ div.column{
 
 /* Pull Request */
 
-div.file .meta .info .css-truncate-target {
+a.css-truncate.css-truncate-target, a.css-truncate .css-truncate-target {
 	max-width: 600px;
 }
-div.file .meta .info {
+div.file-info {
 	width: initial;
-
+}
 div.site-footer, div#all_commit_comments, div.thread-subscription-status {
 	visibility: initial;
 }

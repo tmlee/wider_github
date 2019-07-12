@@ -1,19 +1,19 @@
 {
   "manifest_version": 2,
   "name": "Wider Github",
-  "version": "0.1.1",
+  "version": "0.1.2",
 
-  "description": "Maximize your screen size when looking at codes on Github. This extension is not affiliated with Github.",
+  "description": "Maximize your screen size when looking at codes on Github and minimizes filename truncation. This extension is not affiliated with Github.",
 
   "browser_action":{
     "default_icon":"github48.png",
     "default_title": "Wider Github"
   },
 
-  "icons": { 
+  "icons": {
     "16": "github16.png",
     "48": "github48.png",
-    "128": "github128.png" 
+    "128": "github128.png"
   },
 
   "permissions":[
